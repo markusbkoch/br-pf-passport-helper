@@ -6,3 +6,5 @@ Um incoveniente desse processo é que a PF desabilitou a função de autocomplet
 No futuro se poderia pensar em evoluir esse código para também:
  * preencher o captcha (que o site passa a solicitar se a frequência de tentativas de reagendamento exceder um limite); e
  * selecionar automaticamente o posto de preferência
+
+Para usar o script, [clique aqui](https://markusbkoch.github.io/br-pf-passport-helper/)
